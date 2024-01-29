@@ -385,23 +385,23 @@
 "Date.ChatDateHeaderYear" = "%1$@ %2$@, %3$@";
 
 // Tour
-"Tour.Title1" = "Telegram";
+"Tour.Title1" = "One Social";
 "Tour.Text1" = "The world's **fastest** messaging app.\nIt is **free** and **secure**.";
 
 "Tour.Title2" = "Fast";
-"Tour.Text2" = "**Telegram** delivers messages\nfaster than any other application.";
+"Tour.Text2" = "**One Social** delivers messages\nfaster than any other application.";
 
 "Tour.Title3" = "Powerful";
-"Tour.Text3" = "**Telegram** has no limits on\nthe size of your media and chats.";
+"Tour.Text3" = "**One Social** has no limits on\nthe size of your media and chats.";
 
 "Tour.Title4" = "Secure";
-"Tour.Text4" = "**Telegram** keeps your messages\nsafe from hacker attacks.";
+"Tour.Text4" = "**One Social** keeps your messages\nsafe from hacker attacks.";
 
 "Tour.Title5" = "Cloud-Based";
-"Tour.Text5" = "**Telegram** lets you access your\nmessages from multiple devices.";
+"Tour.Text5" = "**One Social** lets you access your\nmessages from multiple devices.";
 
 "Tour.Title6" = "Free";
-"Tour.Text6" = "**Telegram** provides free unlimited\ncloud storage for chats and media.";
+"Tour.Text6" = "**One Social** provides free unlimited\ncloud storage for chats and media.";
 
 "Tour.StartButton" = "Start Messaging";
 
@@ -1768,7 +1768,7 @@
 
 "Group.Management.AddModeratorHelp" = "You can add admins to help you manage your group.";
 
-"Watch.AppName" = "Telegram";
+"Watch.AppName" = "One Social";
 "Watch.Compose.AddContact" = "Choose Contact";
 "Watch.Compose.CreateMessage" = "Create Message";
 "Watch.Compose.CurrentLocation" = "Current Location";
@@ -2256,7 +2256,7 @@ Unused sets are archived when you add more.";
 
 "Widget.AuthRequired" = "Log in to Telegram";
 "Widget.NoUsers" = "Start messaging to see your friends here";
-"Widget.GalleryTitle" = "Telegram";
+"Widget.GalleryTitle" = "One Social";
 "Widget.GalleryDescription" = "Select chats";
 
 "ShareMenu.CopyShareLinkGame" = "Copy link to game";
@@ -2285,7 +2285,7 @@ Unused sets are archived when you add more.";
 
 "Call.EncryptionKey.Title" = "Encryption Key";
 
-"Application.Name" = "Telegram";
+"Application.Name" = "One Social";
 "DialogList.Pin" = "Pin";
 "DialogList.Unpin" = "Unpin";
 "DialogList.PinLimitError" = "Sorry, you can pin no more than %@ chats to the top.";
@@ -10133,7 +10133,7 @@ Sorry for the inconvenience.";
 "NameColor.ChatPreview.ReplyText.Channel" = "Reply to your channel message";
 "NameColor.ChatPreview.MessageText.Account" = "Your name and replies to your messages will be shown in the selected color.";
 "NameColor.ChatPreview.MessageText.Channel" = "The name of your channek and replies to its messages will be shown in the selected color.";
-"NameColor.ChatPreview.LinkSite" = "Telegram";
+"NameColor.ChatPreview.LinkSite" = "One Social";
 "NameColor.ChatPreview.LinkTitle" = "Link Preview";
 "NameColor.ChatPreview.LinkText" = "Your selected color will also tint the link preview.";
 "NameColor.ChatPreview.Description.Account" = "You can choose an individual color to tint your name, the links you send, and replies to your messages.";
@@ -10804,7 +10804,7 @@ Sorry for the inconvenience.";
 
 "Channel.Appearance.ExampleReplyText" = "Reply to your channel";
 "Channel.Appearance.ExampleText" = "The color you select will be used for the channel's name";
-"Channel.Appearance.ExampleLinkWebsite" = "Telegram";
+"Channel.Appearance.ExampleLinkWebsite" = "One Social";
 "Channel.Appearance.ExampleLinkTitle" = "Link Preview";
 "Channel.Appearance.ExampleLinkText" = "This preview will also be tinted.";
 
